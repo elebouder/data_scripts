@@ -1,0 +1,12 @@
+PURPOSE:
+-> Use the landsat metadata to compile a csv of metadata(Mosaic Group Metadata [Month and Year]) and text list of scenes(Download List [Month and Year]) to download
+-> Given an input of:
+    -> The time scale in question
+           ->Format of #/#### for month/year
+           ->Start and end time given
+    -> Parameters for selecting the best rasters
+        -> 
+
+#################################
+Mosaic Group MTD:::::
+-

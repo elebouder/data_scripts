@@ -1,0 +1,66 @@
+Traceback (most recent call last):
+  File "control.py", line 5, in <module>
+    parser.add_argument(type=int)
+  File "C:\ProgramData\Anaconda2\Lib\argparse.py", line 1276, in add_argument
+    kwargs = self._get_positional_kwargs(*args, **kwargs)
+TypeError: _get_positional_kwargs() takes exactly 2 arguments (1 given)
+Traceback (most recent call last):
+  File "control.py", line 5, in <module>
+    parser.add_argument(type=int)
+  File "C:\ProgramData\Anaconda2\Lib\argparse.py", line 1276, in add_argument
+    kwargs = self._get_positional_kwargs(*args, **kwargs)
+TypeError: _get_positional_kwargs() takes exactly 2 arguments (1 given)
+Traceback (most recent call last):
+  File "control.py", line 5, in <module>
+    parser.add_argument(type=int)
+  File "C:\ProgramData\Anaconda2\Lib\argparse.py", line 1276, in add_argument
+    kwargs = self._get_positional_kwargs(*args, **kwargs)
+TypeError: _get_positional_kwargs() takes exactly 2 arguments (1 given)
+Traceback (most recent call last):
+  File "control.py", line 5, in <module>
+    parser.add_argument(type=int)
+  File "C:\ProgramData\Anaconda2\Lib\argparse.py", line 1276, in add_argument
+    kwargs = self._get_positional_kwargs(*args, **kwargs)
+TypeError: _get_positional_kwargs() takes exactly 2 arguments (1 given)
+Traceback (most recent call last):
+  File "control.py", line 5, in <module>
+    parser.add_argument(type=int)
+  File "C:\ProgramData\Anaconda2\Lib\argparse.py", line 1276, in add_argument
+    kwargs = self._get_positional_kwargs(*args, **kwargs)
+TypeError: _get_positional_kwargs() takes exactly 2 arguments (1 given)
+Traceback (most recent call last):
+  File "control.py", line 5, in <module>
+    parser.add_argument(type=int)
+  File "C:\ProgramData\Anaconda2\Lib\argparse.py", line 1276, in add_argument
+    kwargs = self._get_positional_kwargs(*args, **kwargs)
+TypeError: _get_positional_kwargs() takes exactly 2 arguments (1 given)
+Traceback (most recent call last):
+  File "control.py", line 5, in <module>
+    parser.add_argument(type=int)
+  File "C:\ProgramData\Anaconda2\Lib\argparse.py", line 1276, in add_argument
+    kwargs = self._get_positional_kwargs(*args, **kwargs)
+TypeError: _get_positional_kwargs() takes exactly 2 arguments (1 given)
+Traceback (most recent call last):
+  File "control.py", line 5, in <module>
+    parser.add_argument(type=int)
+  File "C:\ProgramData\Anaconda2\Lib\argparse.py", line 1276, in add_argument
+    kwargs = self._get_positional_kwargs(*args, **kwargs)
+TypeError: _get_positional_kwargs() takes exactly 2 arguments (1 given)
+Traceback (most recent call last):
+  File "control.py", line 5, in <module>
+    parser.add_argument(type=int)
+  File "C:\ProgramData\Anaconda2\Lib\argparse.py", line 1276, in add_argument
+    kwargs = self._get_positional_kwargs(*args, **kwargs)
+TypeError: _get_positional_kwargs() takes exactly 2 arguments (1 given)
+Traceback (most recent call last):
+  File "control.py", line 5, in <module>
+    parser.add_argument(type=int)
+  File "C:\ProgramData\Anaconda2\Lib\argparse.py", line 1276, in add_argument
+    kwargs = self._get_positional_kwargs(*args, **kwargs)
+TypeError: _get_positional_kwargs() takes exactly 2 arguments (1 given)
+Traceback (most recent call last):
+  File "control.py", line 5, in <module>
+    parser.add_argument(type=int)
+  File "C:\ProgramData\Anaconda2\Lib\argparse.py", line 1276, in add_argument
+    kwargs = self._get_positional_kwargs(*args, **kwargs)
+TypeError: _get_positional_kwargs() takes exactly 2 arguments (1 given)

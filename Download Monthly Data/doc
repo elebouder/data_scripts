@@ -1,0 +1,10 @@
+Project Structure:
+
+Main(update/download, start date, end date, cloudcovermax)
+[decide whether an update or download is in question]
+[contains path/row combinations to be searched in the form of a dict tuple]
+[dict tuple form: ({'path':#, 'row':#}, {'path':#, 'row':#})
+-> searchMTD(start date, end date, pathrow dict)(returns csv mtd 'all' list of those found)
+-> refineMTD(cloudcover)(returns 'picked', a csv of the best scenes of 'all', one for each path/row combo,
+                         as well as a txt list 'list' of all the scenes in question)
+-> download_to_file('list')(downloads all the scenes in list to an auto-created file setup along with the 'picked')
