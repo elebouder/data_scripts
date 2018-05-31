@@ -54,6 +54,8 @@ def write_xml(dictlist, key):
     depth.text = imdepth
 
     for elem in dictlist:
+        if not elem:
+            continue
         obj = SubElement(ann_root, 'object')
         bndbox = SubElement(obj, 'bndbox')
         name = SubElement(obj, 'name')
