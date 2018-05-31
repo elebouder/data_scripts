@@ -27,8 +27,8 @@ def iter_csv():
                 #rid = row['region_id']
                 shape_data = ast.literal_eval(row['region_shape_attributes'])
                 print shape_data
-                if not shape_data:
-                    continue
+                #if not shape_data:
+                #    continue
                 if im_id in large_dict:
                     large_dict[im_id].append(shape_data)
                 else:
